@@ -3,8 +3,8 @@
   "short_name": "FoodApp",
   "icons": [
     {
-      "src": "/images/icon-192x192.png",
-      "type": "image/png",
+      "src": "/images/icon-192x192.JPG",
+      "type": "image/JPG",
       "sizes": "192x192"
     },
     {
